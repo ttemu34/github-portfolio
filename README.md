@@ -2,7 +2,7 @@
 
 **Senior Data Engineer** building scalable data pipelines, real-time streaming architectures, and geospatial analytics systems across conservation tech, telecom, and cloud platforms.
 
-📍 Nairobi, Kenya  ·  ✉️ [tevintemu@gmail.com](mailto:tevintemu@gmail.com)  ·  💼 [linkedin.com/in/tevin-temu](https://linkedin.com/in/tevin-temu)  ·  🌐 [Portfolio site](https://ttemu34.github.io)
+📍 Nairobi, Kenya  ·  ✉️ [tevintemu@gmail.com](mailto:tevintemu@gmail.com)  ·  💼 [linkedin.com/in/tevin-temu](https://linkedin.com/in/tevin-temu)  ·  🌐 [Portfolio site](https://ttemu34.github.io/github-portfolio/)
 
 ---
 
@@ -44,11 +44,15 @@
 
 | Project | Description |
 |---|---|
-| **[vina_tsama](https://github.com/ttemu34/vina_tsama)** *(private)* | Django + DRF backend for managing orders, customers, and staff roles. |
-| **[SSL-arduino](https://github.com/ttemu34/SSL-arduino)** | Ambient lighting control for two lamps running on a 60A/240V mains supply. |
-| **[django_blog_project](https://github.com/ttemu34/django_blog_project)** | A blog application built with Django. |
+| **EcoWorkbench** *(private)* | Desktop-style app to design, run and review Ecoscope conservation workflows: saved EarthRanger/SMART/Earth Engine connections, keychain-stored secrets, dashboards, Mac/Windows installers. |
+| **[my-deck-widgets](https://github.com/ttemu34/my-deck-widgets)** | Custom deck.gl layers for pydeck, served from GitHub over jsDelivr; zoom-aware screen-space clustering. |
+| **Docling Studio** *(private)* | Local UI over every Docling document-conversion CLI, with browsable tables, chunks and profiling. |
+| **Repo Pulse** *(private)* | Daily GitHub Actions job that keeps the traffic history GitHub drops after 14 days, plus a dashboard. |
+| **Pesa Ledger** *(private)* | Household finance app (budgets, forecasts, year-on-year comparisons) that runs on your own computer. |
+| **[doc-summarizer](https://github.com/ttemu34/doc-summarizer)** | Streamlit app that summarises PDF/Word/TXT with BART and exports to Word or PDF. |
+| **[rjsf-form-preview](https://github.com/ttemu34/rjsf-form-preview)** | Renders any JSON-Schema form in the browser. [Live preview](https://ttemu34.github.io/rjsf-form-preview/). |
 
-More on my [portfolio site →](https://ttemu34.github.io)
+More on my [portfolio site →](https://ttemu34.github.io/github-portfolio/)
 
 ---
 
